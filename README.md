@@ -1,17 +1,4 @@
 # Bank-lending
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Apr  9 12:31:18 2020
-
-@author: ss186249
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Apr  5 18:24:22 2020
-
-@author: Zankar
-"""
 
 #loading libraries
 import pandas as pd
